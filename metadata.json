@@ -1,0 +1,8 @@
+{
+  "name": "Solenne Footwear",
+  "description": "Minimalist luxury footwear house offering handcrafted men's and women's sneakers, loafers, boots, heels, and everyday silhouettes in warm nude tones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
